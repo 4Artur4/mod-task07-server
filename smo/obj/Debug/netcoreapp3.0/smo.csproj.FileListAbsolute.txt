@@ -1,0 +1,13 @@
+C:\Users\0soul\mod-task07-server\smo\bin\Debug\netcoreapp3.0\smo.exe
+C:\Users\0soul\mod-task07-server\smo\bin\Debug\netcoreapp3.0\smo.deps.json
+C:\Users\0soul\mod-task07-server\smo\bin\Debug\netcoreapp3.0\smo.runtimeconfig.json
+C:\Users\0soul\mod-task07-server\smo\bin\Debug\netcoreapp3.0\smo.runtimeconfig.dev.json
+C:\Users\0soul\mod-task07-server\smo\bin\Debug\netcoreapp3.0\smo.dll
+C:\Users\0soul\mod-task07-server\smo\bin\Debug\netcoreapp3.0\smo.pdb
+C:\Users\0soul\mod-task07-server\smo\obj\Debug\netcoreapp3.0\smo.csprojAssemblyReference.cache
+C:\Users\0soul\mod-task07-server\smo\obj\Debug\netcoreapp3.0\smo.AssemblyInfoInputs.cache
+C:\Users\0soul\mod-task07-server\smo\obj\Debug\netcoreapp3.0\smo.AssemblyInfo.cs
+C:\Users\0soul\mod-task07-server\smo\obj\Debug\netcoreapp3.0\smo.csproj.CoreCompileInputs.cache
+C:\Users\0soul\mod-task07-server\smo\obj\Debug\netcoreapp3.0\smo.dll
+C:\Users\0soul\mod-task07-server\smo\obj\Debug\netcoreapp3.0\smo.pdb
+C:\Users\0soul\mod-task07-server\smo\obj\Debug\netcoreapp3.0\smo.genruntimeconfig.cache
